@@ -1,5 +1,18 @@
 
-## FLOW
+## PREPROCESS FLOW 
+1. Document upload
+   ↓
+2. Text extraction
+   ↓
+3. Cleaning
+   ↓
+4. Chunking
+   ↓
+5. Embedding
+   ↓
+6. Vector DB
+
+## MAIN FLOW
 
 1. Frontend
    ↓
@@ -16,3 +29,4 @@
 7. LLM
    ↓
 8. Answer + citations
+
